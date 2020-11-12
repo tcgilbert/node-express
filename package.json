@@ -1,0 +1,20 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node and NPM basics - make sure you have both installed \"`node -v`\" \"`npm -v`\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcgilbert/node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcgilbert/node-express/issues"
+  },
+  "homepage": "https://github.com/tcgilbert/node-express#readme"
+}
